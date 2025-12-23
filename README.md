@@ -35,3 +35,21 @@ OpenAI / GPT models – NLP for resume understanding
 Pandas – CSV generation and data manipulation
 
 PyPDF2 / docx / textract – Resume file parsing
+
+## 🌟 Future Enhancements
+
+Web interface for drag-and-drop resume uploads
+
+Integration with Google Sheets / HRMS platforms
+
+Advanced NLP for skill matching and ranking candidates
+
+Support for multiple languages
+
+## ✅ Conclusion
+
+Smart Resume Parser & CSV Exporter simplifies and automates the resume screening process by converting unstructured resume data into organized CSV files. It saves time for HR teams, enhances data accuracy, and enables faster decision-making. With AI-powered parsing and customizable output, this tool is a reliable solution for efficient talent management and data-driven recruitment.
+
+## 🙏 Acknowledgements
+
+Special thanks to mentors, contributors, and the AI community for guidance and resources.
