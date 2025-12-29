@@ -1,9 +1,12 @@
 streamlit
 langchain
 langchain-google-genai
+langchain-community
+google-generativeai
 langchain-core
 pydantic
 pandas
 PyPDF2
 python-docx
+
 python-dotenv
